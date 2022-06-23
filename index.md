@@ -7,7 +7,7 @@ I am an upcoming Computer Science PhD student supervised by Dr. [Tyler Derr](htt
 
 I was named as a Russell G. Hamilton Scholar by Vanderbilt University, and I thankfully received the Engineering Graduate Fellowship and Dean’s Graduate Fellowship.
 
-- Email: yi.zhang@vanderbilt.edu
+- Email: <yi.zhang@vanderbilt.edu>
 
 **News**
 
