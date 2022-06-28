@@ -3,7 +3,7 @@ layout: page
 published: ture
 ---
 
-I am an upcoming Computer Science PhD student supervised by Dr. [Tyler Derr](https://tylersnetwork.github.io/) at Vanderbilt University. I am enchanted by general high tech and artificial intelligence with a keen interest in graph neural networks, as well as its applications in natural language processing and recommender systems. 
+I am an incoming Computer Science PhD student supervised by Dr. [Tyler Derr](https://tylersnetwork.github.io/) at Vanderbilt University. I am enchanted by general high tech and artificial intelligence with a keen interest in graph neural networks, as well as its applications in natural language processing and recommender systems. 
 
 I was named as a [Russell G. Hamilton Scholar](https://gradschool.vanderbilt.edu/gli/russell-g-hamilton/) by Vanderbilt University, and I thankfully received the [Engineering Graduate Fellowship](https://gradschool.vanderbilt.edu/funding/) and [Dean’s Graduate Fellowship](https://gradschool.vanderbilt.edu/funding/university_scholarships.php).
 
