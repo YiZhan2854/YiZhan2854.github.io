@@ -7,6 +7,7 @@ I am an incoming Computer Science PhD student supervised by Dr. [Tyler Derr](htt
 
 I was named as a [Russell G. Hamilton Scholar](https://gradschool.vanderbilt.edu/gli/russell-g-hamilton/) by Vanderbilt University, and I thankfully received the [Engineering Graduate Fellowship](https://gradschool.vanderbilt.edu/funding/) and [Dean’s Graduate Fellowship](https://gradschool.vanderbilt.edu/funding/university_scholarships.php).
 
+- [Curriculum Vitae](https://zhan2854.github.io/CV.pdf)
 - Email: <yi.zhang@vanderbilt.edu>
 
 **News**
