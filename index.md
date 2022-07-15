@@ -12,7 +12,9 @@ I was named as a [Russell G. Hamilton Scholar](https://gradschool.vanderbilt.edu
 
 **News**
 
-- 2022 April: My first-authored paper "A Correlated Random Walk Model to Rapidly Approximate Hitting Time Distributions in Multi-Robot Systems" was accepted by [International Conference on Intelligent Autonomous Systems](https://www.ias-17.org/). 
+- 2022 July: My first-authored paper "Nonlinear Multi-Objective Flux Balance Analysis of the Warburg Effect" was accepted by [Journal of Theoretical Biology](https://www.journals.elsevier.com/journal-of-theoretical-biology)!
+
+- 2022 April: My first-authored paper "A Correlated Random Walk Model to Rapidly Approximate Hitting Time Distributions in Multi-Robot Systems" was accepted by [International Conference on Intelligent Autonomous Systems](https://www.ias-17.org/)!
 
 - 2022 April: I will join Vanderbilt University [NDS group](https://nds-vu.github.io/) as a CS PhD student starting this August!
 
