@@ -7,8 +7,22 @@ I am an incoming Computer Science PhD student supervised by Dr. [Tyler Derr](htt
 
 I was named as a [Russell G. Hamilton Scholar](https://gradschool.vanderbilt.edu/gli/russell-g-hamilton/) by Vanderbilt University, and I thankfully received the [Engineering Graduate Fellowship](https://gradschool.vanderbilt.edu/funding/) and [Dean’s Graduate Fellowship](https://gradschool.vanderbilt.edu/funding/university_scholarships.php).
 
+Prior to joining Vanderbilt, I completed the computer science undergraduate curriculum at the University of Minnesota Twin Cities from Sep. 2020 to May 2022 (GPA: 4.0/4.0, Honor: Distinction). During that time, I also finished multiple research projects and a summer internship.
+
 - [Curriculum Vitae](https://yizhan2854.github.io/CV_July21_Updated.pdf)
 - Email: <yi.zhang@vanderbilt.edu>
+
+**Publications**
+
+1. Zhang, Y., Boley, D., Harwell, J., & Gini, M. (2022) A Correlated Random Walk Model to Rapidly Approximate Hitting Time Distributions in Multi-Robot Systems. 17th International Conference on Intelligent Autonomous Systems. [PDF] (https://yizhan2854.github.io/swarmrobot.pdf)
+
+2. Zhang, Y., & Boley, D. (2022). Nonlinear Multi-Objective Flux Balance Analysis of the Warburg Effect. Journal of Theoretical Biology. https://doi.org/10.1016/j.jtbi.2022.111223. [PDF](https://yizhan2854.github.io/biooptimization.pdf) 
+
+**Preprints**
+
+1. Wang, Y., Zhao, Y., Zhang, Y., & Derr, T. (2022). Collaboration-Aware Graph Convolutional Networks for Recommendation Systems. arXiv. https://arxiv.org/abs/2207.06221
+
+2. Zhang, Y. (2021). An In-depth Summary of Recent Artificial Intelligence Applications in Drug Design. arXiv. https://arxiv.org/abs/2110.05478v1
 
 **News**
 
