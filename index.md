@@ -7,7 +7,7 @@ I am an incoming Computer Science PhD student supervised by Dr. [Tyler Derr](htt
 
 I was named as a [Russell G. Hamilton Scholar](https://gradschool.vanderbilt.edu/gli/russell-g-hamilton/) by Vanderbilt University, and I thankfully received the [Engineering Graduate Fellowship](https://gradschool.vanderbilt.edu/funding/) and [Dean’s Graduate Fellowship](https://gradschool.vanderbilt.edu/funding/university_scholarships.php).
 
-Prior to joining Vanderbilt, I completed the computer science undergraduate curriculum at the University of Minnesota Twin Cities from Sep. 2020 to May 2022 (GPA: 4.0/4.0, Honor: Distinction). During that time, I also finished multiple research projects and a summer internship.
+Prior to joining Vanderbilt, I completed the computer science undergraduate curriculum at the University of Minnesota Twin Cities from Sep. 2020 to May 2022 (GPA: 4.00/4.00, Honor: Distinction). During that time, I also finished multiple research projects and a summer internship.
 
 - [Curriculum Vitae](https://yizhan2854.github.io/CV_July21_Updated.pdf)
 - Email: <yi.zhang@vanderbilt.edu>
