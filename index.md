@@ -16,13 +16,22 @@ Prior to joining Vanderbilt, I completed the computer science undergraduate curr
 
 1. Zhang, Y., Boley, D., Harwell, J., & Gini, M. (2022) A Correlated Random Walk Model to Rapidly Approximate Hitting Time Distributions in Multi-Robot Systems. 17th International Conference on Intelligent Autonomous Systems. [PDF](https://yizhan2854.github.io/swarmrobot.pdf)
 
+Keywords: Stochastic Processes, Network, Sparse Matrix, Swarm Robot
+
 2. Zhang, Y., & Boley, D. (2022). Nonlinear Multi-Objective Flux Balance Analysis of the Warburg Effect. Journal of Theoretical Biology. https://doi.org/10.1016/j.jtbi.2022.111223. [PDF](https://yizhan2854.github.io/biooptimization.pdf) 
+
+Keywords: Non-convex Optimization, Multi-Objective Optimization, Biological Modeling
+
 
 **Preprints**
 
 1. Wang, Y., Zhao, Y., Zhang, Y., & Derr, T. (2022). Collaboration-Aware Graph Convolutional Networks for Recommendation Systems. arXiv. https://arxiv.org/abs/2207.06221
 
+Keywords: Collaborative Filtering, Graph Neural Networks
+
 2. Zhang, Y. (2021). An In-depth Summary of Recent Artificial Intelligence Applications in Drug Design. arXiv. https://arxiv.org/abs/2110.05478v1
+
+Keywords: Graph Neural Networks, Generative Models, Reinforcement Learning, Chemistry
 
 **Public Recommendation**
 
