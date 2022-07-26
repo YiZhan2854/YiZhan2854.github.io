@@ -24,6 +24,11 @@ Prior to joining Vanderbilt, I completed the computer science undergraduate curr
 
 2. Zhang, Y. (2021). An In-depth Summary of Recent Artificial Intelligence Applications in Drug Design. arXiv. https://arxiv.org/abs/2110.05478v1
 
+**Public Recommendation**
+
+"Yi was one of the most independent, self-motivated, and creative students I have had the pleasure to work with..." (Read More on [Linkedin](https://www.linkedin.com/in/yi-marcel-zhang-8458b0245/))
+                                    -Dr. [Daniel Boley](https://cse.umn.edu/cs/dan-boley)
+
 **News**
 
 - 2022 July: My first-authored paper "Nonlinear Multi-Objective Flux Balance Analysis of the Warburg Effect" was accepted by [Journal of Theoretical Biology](https://www.journals.elsevier.com/journal-of-theoretical-biology)!
@@ -31,5 +36,6 @@ Prior to joining Vanderbilt, I completed the computer science undergraduate curr
 - 2022 April: My first-authored paper "A Correlated Random Walk Model to Rapidly Approximate Hitting Time Distributions in Multi-Robot Systems" was accepted by [International Conference on Intelligent Autonomous Systems](https://www.ias-17.org/)!
 
 - 2022 April: I will join Vanderbilt University [NDS group](https://nds-vu.github.io/) as a CS PhD student starting this August!
+
 
 
