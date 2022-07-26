@@ -33,7 +33,7 @@ Prior to joining Vanderbilt, I completed the computer science undergraduate curr
 
 - 2022 July: My first-authored paper "Nonlinear Multi-Objective Flux Balance Analysis of the Warburg Effect" was accepted by [Journal of Theoretical Biology](https://www.journals.elsevier.com/journal-of-theoretical-biology)!
 
-- 2022 May: I obtained the Bachelor's degree from UMTC with distinction!
+- 2022 May: I obtained the Bachelor's Degree in Computer Science from UMTC with distinction!
 
 - 2022 April: My first-authored paper "A Correlated Random Walk Model to Rapidly Approximate Hitting Time Distributions in Multi-Robot Systems" was accepted by [International Conference on Intelligent Autonomous Systems](https://www.ias-17.org/)!
 
