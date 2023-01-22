@@ -10,10 +10,10 @@ published: ture
 
 
 ***Selected Publications***
-1. **Zhang, Y.**, Boley, D., Harwell, J., & Gini, M. (2022) A Correlated Random Walk Model to Rapidly Approximate Hitting Time Distributions in Multi-Robot Systems. *17th International Conference on Intelligent Autonomous Systems*. [PDF](https://yizhan2854.github.io/swarmrobot.pdf)  
+1. **Zhang, Y.**, Boley, D., Harwell, J., & Gini, M. (2022) A Correlated Random Walk Model to Rapidly Approximate Hitting Time Distributions in Multi-Robot Systems. *17th International Conference on Intelligent Autonomous Systems*. Springer. https://doi.org/10.1007/978-3-031-22216-0. [PDF](https://yizhan2854.github.io/swarmrobot.pdf)  
 *Keywords: Stochastic Processes, Network, Sparse Matrix, Swarm Robot*
 
-2. **Zhang, Y.**, & Boley, D. (2022). Nonlinear Multi-Objective Flux Balance Analysis of the Warburg Effect. *Journal of Theoretical Biology*. https://doi.org/10.1016/j.jtbi.2022.111223. [PDF](https://yizhan2854.github.io/biooptimization.pdf)  
+2. **Zhang, Y.**, & Boley, D. (2022). Nonlinear Multi-Objective Flux Balance Analysis of the Warburg Effect. *Journal of Theoretical Biology*. Elsevier. https://doi.org/10.1016/j.jtbi.2022.111223. [PDF](https://yizhan2854.github.io/biooptimization.pdf)  
 *Keywords: Non-convex Optimization, Multi-Objective Optimization, Biological Modeling*
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
