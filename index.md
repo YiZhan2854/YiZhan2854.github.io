@@ -3,9 +3,9 @@ layout: page
 published: ture
 ---
 ***Intro***  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a Computer Science PhD student fortunately supervised by Dr. [Tyler Derr](https://tylersnetwork.github.io/) at Vanderbilt University. Please visit my [Linkedin](https://www.linkedin.com/in/yi-marcel-zhang/) for more info if you are interested. I was born in Changzhou, Jiangsu, China in 1995. I had a medical history of OCD (Obsessive Compulsive Disorder), which is also known as "the cancer among mental health diseases". It forced me to drop out of the school in 2013, and significantly slowed down my personal development during my late adolescence and early adulthood. I was finally able to completely overcome it in 2022, using my willpower. As a consequence of once having OCD, I am a perfertionist. However, I am easygoing and lenient with others. I highly value diversity and inclusion, and I don't place label on others based on their race, gender, nationality, social status, occupation, and etc.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am currently an AI researcher in China. Previously, I studied computer science at the University of Minnesota Twin Cities (GPA 4/4). I have completed more than five research projects, and I have several publications at SCI journals and top conferences. 
 
-- Email: <yi.zhang@vanderbilt.edu>
+- Email: <zhan2854@umn.edu>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
@@ -26,10 +26,6 @@ published: ture
 
 - 2022 April: My first-authored paper "A Correlated Random Walk Model to Rapidly Approximate Hitting Time Distributions in Multi-Robot Systems" was accepted by *[International Conference on Intelligent Autonomous Systems](https://www.ias-17.org/)*!
 
-- 2022 April: I will join Vanderbilt University [NDS group](https://nds-vu.github.io/) as a CS PhD student starting this August!
-
-- 2022 April: I received Dean's Graduate Fellowship from the Vanderbilt University!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
